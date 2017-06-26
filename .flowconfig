@@ -1,0 +1,9 @@
+[ignore]
+.*node_modules/
+
+[include]
+
+[libs]
+
+[options]
+0.47.0
